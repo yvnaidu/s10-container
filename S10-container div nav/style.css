@@ -1,0 +1,39 @@
+.player{
+    width: 250px;
+}
+
+div{
+    width:280px;
+    border:20px ridge rgb(24, 2, 24);
+    background-color: greenyellow;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px black;
+
+}
+
+ div p{
+    text-align: justify;
+    
+}
+
+#dhoniDiv{
+    background-color: rgb(120, 95, 55);
+    
+    
+}
+#rohitDiv{
+    background-color: rgb(170, 78, 121);
+}
+#viratDiv{
+    background-color: rgb(100, 160, 220);
+}
+
+nav{
+    font-size: 2.5rem;
+    background-color:#D3DFA3 ;
+    
+}
